@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohamed-elshenawy-restaurant-consul.vercel.app/sitemap.xml
